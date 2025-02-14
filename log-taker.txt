@@ -95,3 +95,12 @@
 2/14/2025 | 8:11:49 AM | WARN | Retrying... (0 attempts left) 
 2/14/2025 | 8:11:52 AM | ERROR | Failed to get nonce after retries: Request failed with status code 502
 2/14/2025 | 8:11:52 AM | ERROR | Failed to retrieve nonce for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+2/14/2025 | 12:14:04 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+2/14/2025 | 12:14:04 PM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+2/14/2025 | 12:14:04 PM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+2/14/2025 | 12:15:05 PM | INFO | Login successful... 
+2/14/2025 | 12:15:05 PM | INFO | Trying to check user info... 
+2/14/2025 | 12:15:06 PM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 72000 
+2/14/2025 | 12:15:06 PM | INFO | Trying to check user miner status... 
+2/14/2025 | 12:15:07 PM | INFO | Last mining time: 2/13/2025, 8:09:09 PM
+2/14/2025 | 12:15:07 PM | WARN | Mining already started, next mining time is: 2/14/2025, 8:09:09 PM
