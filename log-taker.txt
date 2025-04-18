@@ -3568,3 +3568,15 @@
 4/17/2025 | 8:09:57 PM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
 4/17/2025 | 8:09:58 PM | ERROR | Activate Mining Error: {"errno":-111,"code":"ECONNREFUSED","syscall":"connect","address":"101.47.19.33","port":443}
 4/17/2025 | 8:09:58 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/18/2025 | 12:41:40 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/18/2025 | 12:41:40 AM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/18/2025 | 12:41:41 AM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/18/2025 | 12:41:42 AM | INFO | Login successful... 
+4/18/2025 | 12:41:42 AM | INFO | Trying to check user info... 
+4/18/2025 | 12:41:43 AM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 1370680 
+4/18/2025 | 12:41:43 AM | INFO | Trying to check user miner status... 
+4/18/2025 | 12:41:43 AM | INFO | Last mining time: 4/16/2025, 12:16:36 PM
+4/18/2025 | 12:41:43 AM | INFO | Trying to start Mining for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/18/2025 | 12:41:44 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/18/2025 | 12:41:44 AM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/18/2025 | 12:41:52 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x66e99ef33d405a9a1c7edb552cc65236590ef194488e074909bbbe54059d6775 
