@@ -4200,3 +4200,15 @@
 4/28/2025 | 8:10:31 PM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
 4/28/2025 | 8:10:36 PM | ERROR | Activate Mining Error: {"code":"UNKNOWN_ERROR","error":{"code":-32603,"message":"submit transaction to pool failed: Ok(ImmediatelyDropped)"},"payload":{"method":"eth_sendRawTransaction","params":["0x02f86b8204654980831e848082ed9594b3efe5105b835e5dd9d206445dbd66df24b912ab808402fb0c5ec080a06ed9a2258a9151cb7aee57a08fb1fb792b61305589dc6e5893fb1ed410d7c470a0577adf386d9a0a4e6c6ede5607142f7c12d5f51575958dbf59f559408494ade8"],"id":10,"jsonrpc":"2.0"},"shortMessage":"could not coalesce error"}
 4/28/2025 | 8:10:36 PM | ERROR | Wallet already start mine today or wallet dont have taker balance 
+4/29/2025 | 12:42:56 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+4/29/2025 | 12:42:56 AM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/29/2025 | 12:42:57 AM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/29/2025 | 12:42:58 AM | INFO | Login successful... 
+4/29/2025 | 12:42:58 AM | INFO | Trying to check user info... 
+4/29/2025 | 12:42:58 AM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 1610680 
+4/29/2025 | 12:42:58 AM | INFO | Trying to check user miner status... 
+4/29/2025 | 12:42:59 AM | INFO | Last mining time: 4/27/2025, 8:08:57 PM
+4/29/2025 | 12:42:59 AM | INFO | Trying to start Mining for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/29/2025 | 12:43:01 AM | INFO | Mine response: {"code":500,"msg":"startMining Fail, startMining has not reached refresh time","data":null}
+4/29/2025 | 12:43:01 AM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+4/29/2025 | 1:19:42 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3857449ff3b4325ad548ff7bd3e5850dcf229f2762d9502e981e518017b1758b 
