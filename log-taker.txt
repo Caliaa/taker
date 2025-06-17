@@ -7013,3 +7013,15 @@
 6/17/2025 | 8:20:20 AM | WARN | Retrying... (0 attempts left) 
 6/17/2025 | 8:22:39 AM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/17/2025 | 8:22:39 AM | ERROR | Failed to retrieve nonce for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/17/2025 | 12:18:08 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/17/2025 | 12:18:09 PM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/17/2025 | 12:18:09 PM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/17/2025 | 12:18:10 PM | INFO | Login successful... 
+6/17/2025 | 12:18:10 PM | INFO | Trying to check user info... 
+6/17/2025 | 12:18:11 PM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 2642680 
+6/17/2025 | 12:18:11 PM | INFO | Trying to check user miner status... 
+6/17/2025 | 12:18:11 PM | INFO | Last mining time: 6/16/2025, 4:22:12 AM
+6/17/2025 | 12:18:11 PM | INFO | Trying to start Mining for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/17/2025 | 12:18:12 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/17/2025 | 12:18:12 PM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/17/2025 | 12:18:21 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9f7f4d61eaea755e9804cc2bc3db8379f94d787e9a41f53517539a1adc6bba37 
