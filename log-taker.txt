@@ -7080,3 +7080,15 @@
 6/18/2025 | 12:17:43 PM | INFO | Trying to check user miner status... 
 6/18/2025 | 12:17:44 PM | INFO | Last mining time: 6/17/2025, 12:18:18 PM
 6/18/2025 | 12:17:44 PM | WARN | Mining already started, next mining time is: 6/18/2025, 12:18:18 PM
+6/18/2025 | 4:11:33 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/18/2025 | 4:11:33 PM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/18/2025 | 4:11:34 PM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/18/2025 | 4:11:34 PM | INFO | Login successful... 
+6/18/2025 | 4:11:34 PM | INFO | Trying to check user info... 
+6/18/2025 | 4:11:35 PM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 2666680 
+6/18/2025 | 4:11:35 PM | INFO | Trying to check user miner status... 
+6/18/2025 | 4:11:36 PM | INFO | Last mining time: 6/17/2025, 12:18:18 PM
+6/18/2025 | 4:11:36 PM | INFO | Trying to start Mining for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/18/2025 | 4:11:37 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/18/2025 | 4:11:37 PM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/18/2025 | 4:11:43 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf21be6329c6dc09d58cfd32f088c54438c72d611f56557de90665d80a453b040 
