@@ -7318,3 +7318,12 @@
 6/22/2025 | 4:16:17 PM | WARN | Retrying... (0 attempts left) 
 6/22/2025 | 4:18:36 PM | ERROR | Failed to get nonce after retries: connect ETIMEDOUT 101.47.181.18:443
 6/22/2025 | 4:18:36 PM | ERROR | Failed to retrieve nonce for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/22/2025 | 8:09:16 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/22/2025 | 8:09:16 PM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/22/2025 | 8:09:17 PM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+6/22/2025 | 8:09:18 PM | INFO | Login successful... 
+6/22/2025 | 8:09:18 PM | INFO | Trying to check user info... 
+6/22/2025 | 8:09:18 PM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 2762680 
+6/22/2025 | 8:09:18 PM | INFO | Trying to check user miner status... 
+6/22/2025 | 8:09:19 PM | INFO | Last mining time: 6/22/2025, 12:51:57 AM
+6/22/2025 | 8:09:19 PM | WARN | Mining already started, next mining time is: 6/23/2025, 12:51:57 AM
