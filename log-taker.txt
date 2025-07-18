@@ -8764,3 +8764,16 @@
 7/18/2025 | 4:29:35 AM | INFO | Trying to check user miner status... 
 7/18/2025 | 4:29:36 AM | INFO | Last mining time: 7/17/2025, 8:10:33 PM
 7/18/2025 | 4:29:36 AM | WARN | Mining already started, next mining time is: 7/18/2025, 8:10:33 PM
+7/18/2025 | 8:13:46 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+7/18/2025 | 8:13:46 AM | INFO | Start process for wallet 0x68896633da1670f40E5d68CD1F083343395324D6 
+7/18/2025 | 8:13:47 AM | INFO | Trying To Login for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+7/18/2025 | 8:13:48 AM | INFO | Login successful... 
+7/18/2025 | 8:13:48 AM | INFO | Trying to check user info... 
+7/18/2025 | 8:13:49 AM | INFO | User ID: 98933176 | Twitter: @rcaliaa | Total Points: 3314680 
+7/18/2025 | 8:13:49 AM | INFO | Trying to check user miner status... 
+7/18/2025 | 8:13:54 AM | INFO | Last mining time: 7/16/2025, 4:12:15 PM
+7/18/2025 | 8:13:54 AM | INFO | Trying to start Mining for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+7/18/2025 | 8:13:59 AM | INFO | Mine response: {"code":500,"msg":"The contract is not activated. Please activate the contract first","data":null}
+7/18/2025 | 8:13:59 AM | INFO | Trying to activate mining on-chain for wallet: 0x68896633da1670f40E5d68CD1F083343395324D6 
+7/18/2025 | 8:18:31 AM | ERROR | Activate Mining Error: {"code":"SERVER_ERROR","request":{},"response":{},"info":{"requestUrl":"https://rpc-mainnet.taker.xyz/","responseBody":"Too many connections. Please try again later.","responseStatus":"599 CLIENT ESCALATED SERVER ERROR (429 Too Many Requests; exceeded maximum retry limit)"},"shortMessage":"exceeded maximum retry limit"}
+7/18/2025 | 8:18:31 AM | ERROR | Wallet already start mine today or wallet dont have taker balance 
